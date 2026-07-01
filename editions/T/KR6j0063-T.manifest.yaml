@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6j0063/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0063/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蘇悉地羯羅供養法
+  identifiers:
+    krp: KR6j0063
+    cbeta: T18n0894a
+    cbeta_old_id: T18n0894a
+    authorityid: CA0002857
+    json_key: T0894a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0894a.xml
+    old_id: T18n0894a
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0063_000-T.yaml, hash: 'sha256:b91aac14a4896f2d015811b4b83373eb00ff738442a66ed8f4386e6a4538ab88'}
+  - {seq: 1, filename: KR6j0063_001-T.yaml, hash: 'sha256:17e1a560fd074bd0a9e5fe7c64ba74cb544397aa269f77d4022058e3a5d5c85f'}
+  - {seq: 2, filename: KR6j0063_002-T.yaml, hash: 'sha256:13a4f8e372862b8a77ec3126d66078d5e0b88c83d07b67690ac6623bd169b713'}
+  - {seq: 3, filename: KR6j0063_003-T.yaml, hash: 'sha256:55493233df3f66987b32deda9b5d5f2a020292f870d01d587bdec64a0890007c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0063_000-T.markers.yaml, hash: 'sha256:3212e9fc02a64ee5f44f88b78c43be3443a7c88bef2e1fa6615aa093e08dc1de'}
+  - {seq: 1, role: markers, filename: assets/KR6j0063_001-T.markers.yaml, hash: 'sha256:19253c7dcce0c8637a9e99ecf763a916debb87e4fd54b28b157e95b4a295ec9e'}
+  - {seq: 2, role: markers, filename: assets/KR6j0063_002-T.markers.yaml, hash: 'sha256:8a705850bc46dca108ee5c53f4321c4e8bba807b3186c8fe1857587ca9fee858'}
+  - {seq: 3, role: markers, filename: assets/KR6j0063_003-T.markers.yaml, hash: 'sha256:c87073fe4ca340452aab91f8abc734cad62a97036a0017aa5d080d254e594e79'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0063_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6118
+  label: 蘇悉地羯羅供養法卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0063_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4804
+  label: 蘇悉地羯羅供養法卷中通三部次第
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0063_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4024
+  label: 蘇悉地羯羅供養法卷下
+  type: juan
+  level: 1
+hash: sha256:43b21ea49c60a12c1a44c324261415770ce6268b0d8082727912337f68cae4e7
