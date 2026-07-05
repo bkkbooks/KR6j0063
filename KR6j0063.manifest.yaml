@@ -31,13 +31,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0063_000.yaml, hash: 'sha256:b91aac14a4896f2d015811b4b83373eb00ff738442a66ed8f4386e6a4538ab88'}
-  - {seq: 1, filename: KR6j0063_001.yaml, hash: 'sha256:a3dff0dfa6906d506c60f3428f22507fc5323a5bc86a42b18b4cfe71b1c24c8e'}
-  - {seq: 2, filename: KR6j0063_002.yaml, hash: 'sha256:dbb9de705cc49dabeae43f49d5623c2b6f4be14f6e7b489b04d09bfc08774ebe'}
-  - {seq: 3, filename: KR6j0063_003.yaml, hash: 'sha256:a032aca0c52a97e325dcdcb5103851ca676f4ad56543965b05ea91c0bfed2bb3'}
+  - {seq: 1, filename: KR6j0063_001.yaml, hash: 'sha256:17e1a560fd074bd0a9e5fe7c64ba74cb544397aa269f77d4022058e3a5d5c85f'}
+  - {seq: 2, filename: KR6j0063_002.yaml, hash: 'sha256:13a4f8e372862b8a77ec3126d66078d5e0b88c83d07b67690ac6623bd169b713'}
+  - {seq: 3, filename: KR6j0063_003.yaml, hash: 'sha256:55493233df3f66987b32deda9b5d5f2a020292f870d01d587bdec64a0890007c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0063_001.markers.yaml, hash: 'sha256:108aef209aebb033e7f98371e175b09d9c5840934120eef8d86220e2578a8aee'}
-  - {seq: 2, role: markers, filename: assets/KR6j0063_002.markers.yaml, hash: 'sha256:1d769a538bcceebb7c5e1a86cca65191653b98d1ba2416e9ed7ea94c89868ecc'}
-  - {seq: 3, role: markers, filename: assets/KR6j0063_003.markers.yaml, hash: 'sha256:beb802d503972e62c4d1b5caac1b2ba1b37cec879c6479b6b3ccef892e468024'}
+  - {seq: 0, role: markers, filename: assets/KR6j0063_000.markers.yaml, hash: 'sha256:b301f76fe22c0c51fcfe9c3b0abcdad5be5d7014c3848e7abfded668501d5a21'}
+  - {seq: 1, role: markers, filename: assets/KR6j0063_001.markers.yaml, hash: 'sha256:9881180a4b824bcac4a18ef809be5d63ca23c306c3008f06f3c7c30592d23476'}
+  - {seq: 2, role: markers, filename: assets/KR6j0063_002.markers.yaml, hash: 'sha256:6127c5e8b59befbaa5a1bc1e1addff2e71907d6fe71bdb2e685c3a429863aeb6'}
+  - {seq: 3, role: markers, filename: assets/KR6j0063_003.markers.yaml, hash: 'sha256:f9560610feb7e88964e9dc920b748608bcc67117ebc964474aec19db14fcac21'}
 table_of_contents:
 - ref:
     seq: 1
@@ -69,7 +70,4 @@ table_of_contents:
   label: 蘇悉地羯羅供養法卷下
   type: juan
   level: 1
-hash: sha256:d3a7a9c7e07f609c4ffef48a88ec08206af84215e8f73ef22be8e6138c585c34
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:435f59217d0deacd3407c69cafb5ace91bea8f5261fe18f7ddc0be2f95446bc9
