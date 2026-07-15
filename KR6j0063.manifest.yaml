@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0063/v1
 canonical_location: https://kanripo.org/bkk/KR6j0063/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 蘇悉地羯羅供養法
   identifiers:
@@ -31,14 +31,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0063_000.yaml, hash: 'sha256:b91aac14a4896f2d015811b4b83373eb00ff738442a66ed8f4386e6a4538ab88'}
-  - {seq: 1, filename: KR6j0063_001.yaml, hash: 'sha256:17e1a560fd074bd0a9e5fe7c64ba74cb544397aa269f77d4022058e3a5d5c85f'}
-  - {seq: 2, filename: KR6j0063_002.yaml, hash: 'sha256:13a4f8e372862b8a77ec3126d66078d5e0b88c83d07b67690ac6623bd169b713'}
-  - {seq: 3, filename: KR6j0063_003.yaml, hash: 'sha256:55493233df3f66987b32deda9b5d5f2a020292f870d01d587bdec64a0890007c'}
+  - {seq: 1, filename: KR6j0063_001.yaml, hash: 'sha256:d0f64ab2b06b936d187a2e365ec757739a332562714a25a269b637e0d62d0b43'}
+  - {seq: 2, filename: KR6j0063_002.yaml, hash: 'sha256:cbaedacf83df27b1dadc0013bc834e074985cd214331a27784ce71c547364e8f'}
+  - {seq: 3, filename: KR6j0063_003.yaml, hash: 'sha256:c5317c5526d216c6180ab59d0024bf71b4c32d81aa7e13b08d7aa9ff25073bb0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0063_000.markers.yaml, hash: 'sha256:b301f76fe22c0c51fcfe9c3b0abcdad5be5d7014c3848e7abfded668501d5a21'}
-  - {seq: 1, role: markers, filename: assets/KR6j0063_001.markers.yaml, hash: 'sha256:9881180a4b824bcac4a18ef809be5d63ca23c306c3008f06f3c7c30592d23476'}
-  - {seq: 2, role: markers, filename: assets/KR6j0063_002.markers.yaml, hash: 'sha256:6127c5e8b59befbaa5a1bc1e1addff2e71907d6fe71bdb2e685c3a429863aeb6'}
-  - {seq: 3, role: markers, filename: assets/KR6j0063_003.markers.yaml, hash: 'sha256:f9560610feb7e88964e9dc920b748608bcc67117ebc964474aec19db14fcac21'}
+  - {seq: 1, role: markers, filename: assets/KR6j0063_001.markers.yaml, hash: 'sha256:54e2dd6fa50f66b0283bfd2c6d6c7c78350c20f63c89c28cfc6e6d22188d3b38'}
+  - {seq: 2, role: markers, filename: assets/KR6j0063_002.markers.yaml, hash: 'sha256:da246d2aeb495ee217a8a63d1c04a0dbb7cf949b1b7e454b8a6e6bd5f1450084'}
+  - {seq: 3, role: markers, filename: assets/KR6j0063_003.markers.yaml, hash: 'sha256:800b85a1f812aa8bcc33f7b686400bf21234f3e7b688918b4edc7d7e5dfcb4ea'}
 table_of_contents:
 - ref:
     seq: 1
@@ -70,4 +70,7 @@ table_of_contents:
   label: 蘇悉地羯羅供養法卷下
   type: juan
   level: 1
-hash: sha256:435f59217d0deacd3407c69cafb5ace91bea8f5261fe18f7ddc0be2f95446bc9
+hash: sha256:f6b46b828ab10fd2b462af9a3b775938c3f8447851c188c9d13e25c0da47cb09
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
